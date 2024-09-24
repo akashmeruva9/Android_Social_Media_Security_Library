@@ -1,6 +1,6 @@
 # AndroidArmour
 
-We have include the following 2 Social Media Android app security features in this respository :
+## We have include the following 2 Social Media Android app security features in this respository :
 - [End-To-End Encryption](#section-1)  - 
 - [Transaction Encryption](#section-2)
 
